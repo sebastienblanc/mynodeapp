@@ -1,0 +1,9 @@
+{
+    "name": "My Cool Node App",
+    "version": "1.0.0",
+    "description": "A nice App",
+    "author": "Port",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
